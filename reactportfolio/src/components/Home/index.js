@@ -1,30 +1,39 @@
 import React from "react";
 
+import stock from "../../img/Gandalf.jpg";
+import person from "../../img/male1.png";
+import resume from "../../docs/SamsonWong_NetworkSiteReliabilityEngineer.docx";
+
 function Home() {
   return (
 
     <div className="banner-info">
+      <div className="col-md-5 header-left">
+        <img src={stock} alt="" />
+        <h1>Samson Wong</h1> 
+      </div>
+
       <div className="col-md-7 header-right">
-        <h1>Samson Wong</h1>
         <h6>Network Site Relability Engnineer (Automation, Cloud)</h6>
         <div>
-          <a href="../docs/SamsonWong_NetworkSiteReliabilityEngineer.docx" target="_blank"
-            title="Click to view my Resume">View Resume</a>
-          <a href="https://github.com/swong452" rel="noopener" target="_blank" title="Github"> GitHub Link </a>
-          <a href="https://www.linkedin.com/in/samson-wong-45a25317/" rel="noopener" title='LinkedIn'
-                target="_blank" className = "fa fa-linkedin"> LinkedIn </a>
+          <a href={resume} target="_blank" title="Resume"
+          style={{ display: "block", backgroundImage: `url(${person})`, width: 50, height: 50, padding:10,  backgroundSize: "contain" }}
+          ></a>
+
+          <a
+            href="https://www.linkedin.com/in/samson-wong-45a25317/" title="Samson LinkedIn Contact"
+            style={{ display: "block", backgroundImage: "url(https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)", width: 50, height: 50, backgroundSize: "contain" }}
+          > </a>
+
+          <a
+            href="https://github.com/swong452" title="Samson GitHub"
+            style={{ display: "block", backgroundImage: "url(https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)", width: 50, height: 50, backgroundSize: "contain" }}
+          > </a>
+
         </div>
 
 
         <ul className="address">
-
-          <li>
-            <ul className="address-text">
-              <li><b>NAME</b></li>
-              <li>Samson Wong</li>
-            </ul>
-          </li>
-
           <li>
             <ul className="address-text">
               <li><b> D.O.B</b></li>
@@ -53,6 +62,7 @@ function Home() {
             </ul>
           </li>
         </ul>
+
       </div>
     </div >
   )
