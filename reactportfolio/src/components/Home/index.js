@@ -1,13 +1,13 @@
 import React from "react";
-
 import stock from "../../img/Gandalf.jpg";
 import person from "../../img/male1.png";
 import resume from "../../docs/SamsonWong_NetworkSiteReliabilityEngineer.docx";
+import "./style.css"; 
 
 function Home() {
   return (
 
-    <div className="banner-info">
+    <div className="Home">
       <div className="col-md-5 header-left">
         <img src={stock} alt="" />
         <h1>Samson Wong</h1> 
