@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/ReactPortfolio/static/css/main.1f7d458d.chunk.css",
-    "main.js": "/ReactPortfolio/static/js/main.07bf05fc.chunk.js",
-    "main.js.map": "/ReactPortfolio/static/js/main.07bf05fc.chunk.js.map",
+    "main.js": "/ReactPortfolio/static/js/main.c055ef65.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.c055ef65.chunk.js.map",
     "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.5b3ce1ae.js",
     "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.5b3ce1ae.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/ReactPortfolio/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.2e625d98.chunk.js": "/ReactPortfolio/static/js/2.2e625d98.chunk.js",
-    "static/js/2.2e625d98.chunk.js.map": "/ReactPortfolio/static/js/2.2e625d98.chunk.js.map",
+    "static/js/2.e550ac53.chunk.js": "/ReactPortfolio/static/js/2.e550ac53.chunk.js",
+    "static/js/2.e550ac53.chunk.js.map": "/ReactPortfolio/static/js/2.e550ac53.chunk.js.map",
     "index.html": "/ReactPortfolio/index.html",
-    "precache-manifest.491728b45db4d876c87be9cca9f30f0d.js": "/ReactPortfolio/precache-manifest.491728b45db4d876c87be9cca9f30f0d.js",
+    "precache-manifest.231e93165a536f826c9c49d716615f09.js": "/ReactPortfolio/precache-manifest.231e93165a536f826c9c49d716615f09.js",
     "service-worker.js": "/ReactPortfolio/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/ReactPortfolio/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.1f7d458d.chunk.css.map": "/ReactPortfolio/static/css/main.1f7d458d.chunk.css.map",
-    "static/js/2.2e625d98.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.2e625d98.chunk.js.LICENSE.txt",
+    "static/js/2.e550ac53.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.e550ac53.chunk.js.LICENSE.txt",
     "static/media/BurgerMVC.PNG": "/ReactPortfolio/static/media/BurgerMVC.2d14bacf.PNG",
+    "static/media/Gandalf.jpg": "/ReactPortfolio/static/media/Gandalf.caae0e47.jpg",
     "static/media/Project1FoodSearch.PNG": "/ReactPortfolio/static/media/Project1FoodSearch.edaaecb3.PNG",
     "static/media/Project2InventorySystem.PNG": "/ReactPortfolio/static/media/Project2InventorySystem.c16e1778.PNG",
+    "static/media/SamsonWong_NetworkSiteReliabilityEngineer.docx": "/ReactPortfolio/static/media/SamsonWong_NetworkSiteReliabilityEngineer.6e1dab0f.docx",
     "static/media/earth.jpg": "/ReactPortfolio/static/media/earth.67af05e1.jpg",
+    "static/media/male1.png": "/ReactPortfolio/static/media/male1.3ec3891b.png",
     "static/media/myImage.png": "/ReactPortfolio/static/media/myImage.bd80794f.png",
     "static/media/wk3PasswordGenerator.PNG": "/ReactPortfolio/static/media/wk3PasswordGenerator.edca20ae.PNG",
     "static/media/wk5WorkDay.PNG": "/ReactPortfolio/static/media/wk5WorkDay.a34685ed.PNG",
@@ -26,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.5b3ce1ae.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.2e625d98.chunk.js",
+    "static/js/2.e550ac53.chunk.js",
     "static/css/main.1f7d458d.chunk.css",
-    "static/js/main.07bf05fc.chunk.js"
+    "static/js/main.c055ef65.chunk.js"
   ]
 }
