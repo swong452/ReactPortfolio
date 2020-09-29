@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ReactPortfolio/static/css/main.1f7d458d.chunk.css",
-    "main.js": "/ReactPortfolio/static/js/main.c055ef65.chunk.js",
-    "main.js.map": "/ReactPortfolio/static/js/main.c055ef65.chunk.js.map",
+    "main.css": "/ReactPortfolio/static/css/main.64138846.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.c838166d.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.c838166d.chunk.js.map",
     "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.5b3ce1ae.js",
     "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.5b3ce1ae.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/ReactPortfolio/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.e550ac53.chunk.js": "/ReactPortfolio/static/js/2.e550ac53.chunk.js",
-    "static/js/2.e550ac53.chunk.js.map": "/ReactPortfolio/static/js/2.e550ac53.chunk.js.map",
+    "static/js/2.9767bb6a.chunk.js": "/ReactPortfolio/static/js/2.9767bb6a.chunk.js",
+    "static/js/2.9767bb6a.chunk.js.map": "/ReactPortfolio/static/js/2.9767bb6a.chunk.js.map",
     "index.html": "/ReactPortfolio/index.html",
-    "precache-manifest.231e93165a536f826c9c49d716615f09.js": "/ReactPortfolio/precache-manifest.231e93165a536f826c9c49d716615f09.js",
+    "precache-manifest.aa6c83d3835f43e802f95deb576ec9df.js": "/ReactPortfolio/precache-manifest.aa6c83d3835f43e802f95deb576ec9df.js",
     "service-worker.js": "/ReactPortfolio/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/ReactPortfolio/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.1f7d458d.chunk.css.map": "/ReactPortfolio/static/css/main.1f7d458d.chunk.css.map",
-    "static/js/2.e550ac53.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.e550ac53.chunk.js.LICENSE.txt",
+    "static/css/main.64138846.chunk.css.map": "/ReactPortfolio/static/css/main.64138846.chunk.css.map",
+    "static/js/2.9767bb6a.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.9767bb6a.chunk.js.LICENSE.txt",
     "static/media/BurgerMVC.PNG": "/ReactPortfolio/static/media/BurgerMVC.2d14bacf.PNG",
-    "static/media/Gandalf.jpg": "/ReactPortfolio/static/media/Gandalf.caae0e47.jpg",
+    "static/media/style.css": "/ReactPortfolio/static/media/Gandalf.caae0e47.jpg",
     "static/media/Project1FoodSearch.PNG": "/ReactPortfolio/static/media/Project1FoodSearch.edaaecb3.PNG",
     "static/media/Project2InventorySystem.PNG": "/ReactPortfolio/static/media/Project2InventorySystem.c16e1778.PNG",
     "static/media/SamsonWong_NetworkSiteReliabilityEngineer.docx": "/ReactPortfolio/static/media/SamsonWong_NetworkSiteReliabilityEngineer.6e1dab0f.docx",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.5b3ce1ae.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.e550ac53.chunk.js",
-    "static/css/main.1f7d458d.chunk.css",
-    "static/js/main.c055ef65.chunk.js"
+    "static/js/2.9767bb6a.chunk.js",
+    "static/css/main.64138846.chunk.css",
+    "static/js/main.c838166d.chunk.js"
   ]
 }
