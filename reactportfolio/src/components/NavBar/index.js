@@ -10,7 +10,7 @@ function NavBar() {
   return (
     <ul className="nav nav-tabs">
       <li className="nav-item">
-        <Link to="/"
+        <Link to="/ReactPortfolio"
           className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
           Home
         </Link>

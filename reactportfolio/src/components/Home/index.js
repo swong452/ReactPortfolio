@@ -2,22 +2,25 @@ import React from "react";
 import stock from "../../img/Gandalf.jpg";
 import person from "../../img/male1.png";
 import resume from "../../docs/SamsonWong_NetworkSiteReliabilityEngineer.docx";
-import "./style.css"; 
+import "./style.css";
 
 function Home() {
   return (
 
-    <div className="Home">
+    <div className="jumbotron">
       <div className="col-md-5 header-left">
+       
         <img src={stock} alt="" />
-        <h1>Samson Wong</h1> 
+        <h1>Samson Wong</h1>
       </div>
 
       <div className="col-md-7 header-right">
         <h6>Network Site Relability Engnineer (Automation, Cloud)</h6>
-        <div>
+
+
+        <div style={{ display: "flex" }}>
           <a href={resume} target="_blank" title="Resume"
-          style={{ display: "block", backgroundImage: `url(${person})`, width: 50, height: 50, padding:10,  backgroundSize: "contain" }}
+            style={{ display: "block", backgroundImage: `url(${person})`, width: 50, height: 50, padding: 10, backgroundSize: "contain" }}
           ></a>
 
           <a
