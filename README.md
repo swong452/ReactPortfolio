@@ -5,7 +5,7 @@ Create the React Portfolio
 
 ## React Portfolio Screen Shot
 
-![React Portfolo Screen Shot] (reactportfolio/src/img/ReactPortfolioPage.PNG)
+![React Portfolo Screen Shot] (https://github.com/swong452/ReactPortfolio/blob/master/reactportfolio/src/img/ReactPortfolioPage.PNG)
 
 ## Deployed GitHub Link
 https://swong452.github.io/ReactPortfolio
