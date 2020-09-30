@@ -15,7 +15,7 @@ function App() {
   return (
     <Router>
       <div>
-        <NavBar />
+        <Header />
         <Route exact path="/ReactPortfolio" component={Home} />
         <Route exact path="/" component={Home} />
         <Route exact path="/about" component={About} />
