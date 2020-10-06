@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ReactPortfolio/static/css/main.11ab671b.chunk.css",
-    "main.js": "/ReactPortfolio/static/js/main.7f086574.chunk.js",
-    "main.js.map": "/ReactPortfolio/static/js/main.7f086574.chunk.js.map",
+    "main.js": "/ReactPortfolio/static/js/main.08b9aaf5.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.08b9aaf5.chunk.js.map",
     "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.5b3ce1ae.js",
     "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.5b3ce1ae.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/ReactPortfolio/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.be794750.chunk.js": "/ReactPortfolio/static/js/2.be794750.chunk.js",
-    "static/js/2.be794750.chunk.js.map": "/ReactPortfolio/static/js/2.be794750.chunk.js.map",
+    "static/js/2.506af2b7.chunk.js": "/ReactPortfolio/static/js/2.506af2b7.chunk.js",
+    "static/js/2.506af2b7.chunk.js.map": "/ReactPortfolio/static/js/2.506af2b7.chunk.js.map",
     "index.html": "/ReactPortfolio/index.html",
-    "precache-manifest.237616e46990617fddfbb7f2217348e2.js": "/ReactPortfolio/precache-manifest.237616e46990617fddfbb7f2217348e2.js",
+    "precache-manifest.b29fffa199f74546d1e8081a470581df.js": "/ReactPortfolio/precache-manifest.b29fffa199f74546d1e8081a470581df.js",
     "service-worker.js": "/ReactPortfolio/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/ReactPortfolio/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.11ab671b.chunk.css.map": "/ReactPortfolio/static/css/main.11ab671b.chunk.css.map",
-    "static/js/2.be794750.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.be794750.chunk.js.LICENSE.txt",
+    "static/js/2.506af2b7.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.506af2b7.chunk.js.LICENSE.txt",
     "static/media/BurgerMVC.PNG": "/ReactPortfolio/static/media/BurgerMVC.2d14bacf.PNG",
     "static/media/style.css": "/ReactPortfolio/static/media/Gandalf.caae0e47.jpg",
     "static/media/Project1FoodSearch.PNG": "/ReactPortfolio/static/media/Project1FoodSearch.edaaecb3.PNG",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.5b3ce1ae.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.be794750.chunk.js",
+    "static/js/2.506af2b7.chunk.js",
     "static/css/main.11ab671b.chunk.css",
-    "static/js/main.7f086574.chunk.js"
+    "static/js/main.08b9aaf5.chunk.js"
   ]
 }
