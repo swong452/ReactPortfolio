@@ -3,8 +3,8 @@ import "./style.css";
 
 function Footer() {
   return (
-    <footer className="footer">
-      <span>Samson Wong 2020</span>
+    <footer className="footer text-center">
+      <h4>Samson Wong 2020</h4>
     </footer>
   );
 }

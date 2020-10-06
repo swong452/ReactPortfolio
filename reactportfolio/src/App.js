@@ -7,7 +7,7 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
-import NavBar from "./components/NavBar";
+import Wrapper from "./components/Wrapper";
 import Projects from "./components/Projects";
 import Home from "./components/Home";
 
@@ -16,11 +16,13 @@ function App() {
     <Router>
       <div>
         <Header />
+        <Wrapper>
         <Route exact path="/ReactPortfolio" component={Home} />
         <Route exact path="/" component={Home} />
         <Route exact path="/about" component={About} />
         <Route exact path="/projects" component={Projects} />
         <Route exact path="/contact" component={Contact} />
+        </Wrapper>
         <Footer/>
       </div>
     </Router>
