@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route } from "react-router-dom";
-import { HashRouter } from "react-router-dom";
+import { HashRouter as Router, Route } from "react-router-dom";
 import './App.css';
 
 // Import Components
@@ -14,7 +14,7 @@ import Home from "./components/Home";
 
 function App() {
   return (
-    <HashRouter basename='/'>
+    <Router>
       <div>
         <Header />
         <Wrapper>
@@ -26,10 +26,9 @@ function App() {
         </Wrapper>
         <Footer/>
       </div>
-    </HashRouter>
+    </Router>
 
   );
 }
-
 
 export default App;
