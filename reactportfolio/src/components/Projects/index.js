@@ -7,7 +7,7 @@ import stock2 from "../../img/Project2InventorySystem.PNG";
 import stock3 from "../../img/wk5WorkDay.PNG";
 import stock4 from "../../img/BurgerMVC.PNG";
 import stock5 from "../../img/wk6WeatherDashboard.PNG";
-import stock6 from "../../img/wk6WeatherDashboard.PNG";
+import stock6 from "../../img/GandalfBookSearch.PNG";
 
 var passwordLink = "https://swong452.github.io/HW3-PasswordGenerator/Develop/";
 var foodLink = "https://swong452.github.io/ColumbiaFoodSearch/index.html";
